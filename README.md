@@ -2,6 +2,10 @@
 
 VideoCompress is a lightweight Android application designed to compress videos efficiently using the **Media3 Transformer** API.
 
+## Screenshots
+
+![Main Screen](screenshot.webp)
+
 ## Features
 
 - **Efficient Compression**: Leverages Android Media3 Transformer for high-performance video transcoding.
